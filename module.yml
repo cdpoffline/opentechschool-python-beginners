@@ -1,0 +1,5 @@
+overview:
+  image: overview.jpg
+  name: Python
+  text: Indem du eine malende Schildkröte steuerst, erlernst du die Grundlagen der Sprache Python.
+  category: syntax
