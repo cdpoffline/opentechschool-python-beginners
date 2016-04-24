@@ -2,10 +2,12 @@ overview:
   syntax:
     python:
 #      image: overview.jpg
-      name: 
+      name:
         en-en: Python
         de-de: Python
-      text: 
+        it-it: Python
+      text:
         en-en: By controling a turtle, you draw pictures and learn the basics of Python.
         de-de: Indem du eine malende Schildkröte steuerst, erlernst du die Grundlagen der Sprache Python.
+        it-it: Pilota una tartaruga per creare disegni geometrici e imparare le basi di Python.
       module: opentechschool-python-beginners
